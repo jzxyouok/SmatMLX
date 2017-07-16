@@ -1,12 +1,12 @@
 智能管家生活类APP
 运行截图：<br>
 <h2>闪屏页：<br>
-![image](https://github.com/MlxChange/SmatMLX/blob/master/img/1%20(6).png)
+![image](https://github.com/MlxChange/SmatMLX/blob/master/img/1%20(6).png<br>
 <h2>主页：<br>
-![image](https://github.com/MlxChange/SmatMLX/blob/master/img/1%20(3).png)
+![image](https://github.com/MlxChange/SmatMLX/blob/master/img/1%20(3).png)<br>
 <h2>美女社区页：<br>
-![image](https://github.com/MlxChange/SmatMLX/blob/master/img/1%20(2).png)
+![image](https://github.com/MlxChange/SmatMLX/blob/master/img/1%20(2).png)<br>
 <h2>知乎页：<br>
-![image](https://github.com/MlxChange/SmatMLX/blob/master/img/1%20(1).png)
+![image](https://github.com/MlxChange/SmatMLX/blob/master/img/1%20(1).png)<br>
 <h2>设置页面：<br>
-![image](https://github.com/MlxChange/SmatMLX/blob/master/img/1%20(4).png)
+![image](https://github.com/MlxChange/SmatMLX/blob/master/img/1%20(4).png)<br>
