@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':note', ':customview', ':meterialdesigntest', ':Coollayouttest', ':recycleviewtest', ':rxjavatest', ':okhttptest', ':okhttptest2', ':material2', ':weather', ':smartmlx', 'look', 'Material', ':agera', 'Book', 'book', 'coolweather', 'smart'
